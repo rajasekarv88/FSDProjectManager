@@ -1,0 +1,10 @@
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManager.Models.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManager.Models.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb

@@ -1,0 +1,5 @@
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManager.Models\bin\Release\Capsule_TaskManager.Models.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManager.Models\bin\Release\Capsule_TaskManager.Models.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.csprojResolveAssemblyReference.cache
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.pdb

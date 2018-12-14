@@ -1,0 +1,12 @@
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManager.Models.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\EntityFramework.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManager.Models.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\bin\Release\EntityFramework.xml
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.dll
+C:\Rajasekar(512924)\SBA\WebAPI\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.pdb
